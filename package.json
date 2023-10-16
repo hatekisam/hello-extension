@@ -20,6 +20,10 @@
       {
         "command": "hellobroony.currentTime",
         "title": "Current Time(title from package.json) contributes "
+      },
+      {
+        "command": "hellobroony.warningMessage",
+        "title": "WARNING"
       }
     ]
   },
